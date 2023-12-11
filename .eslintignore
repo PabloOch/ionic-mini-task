@@ -1,0 +1,9 @@
+node_modules
+*.css
+*.svg
+src/*.test.ts
+src/*.ts
+vite.config.ts
+*worker.ts
+serviceWorkerRegistration.ts
+capacitor.config.ts
